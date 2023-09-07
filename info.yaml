@@ -36,7 +36,7 @@ documentation:
 
 # A description of what the inputs do (e.g. red button, SPI CLK, SPI MOSI, etc).
   inputs:               
-    - button resets/starts clock
+    - none
     - none
     - none
     - none
@@ -46,7 +46,7 @@ documentation:
     - none
 # A description of what the outputs do (e.g. status LED, SPI MISO, etc)
   outputs:
-    - LED for AM/PM and reset/running
+    - segment a
     - segment b
     - segment c
     - segment d
